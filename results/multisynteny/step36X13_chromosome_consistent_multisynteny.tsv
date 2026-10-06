@@ -1,0 +1,4 @@
+comparison	comparison_class	reference_species	target_species	reference_chromosomes_tested	reference_syntenic_genes	genes_exactly_2_target_chromosomes	genes_ge2_target_chromosomes	fraction_ge2_target_chromosomes	strong_1to2_candidate_chromosomes	moderate_balanced_chromosomes	weak_second_partner_chromosomes	single_target_chromosomes	strong_candidate_fraction	median_second_to_first_ratio	median_top1_top2_union_fraction	median_dual_top1_top2_fraction	strong_definition	status
+VSCU_VSER	diploid_diploid	VSCU	VSER	9	1152	3	3	0.00260417	1	4	4	0	0.11111111	0.50000000	0.58823529	0.00000000	second:first>=0.50_AND_union>=0.70	PASS
+VSCU_VPAN	diploid_diploid	VSCU	VPAN	9	1140	3	3	0.00263158	0	3	6	0	0.00000000	0.44230769	0.60483871	0.00000000	second:first>=0.50_AND_union>=0.70	PASS
+VPAN_VPER	diploid_tetraploid	VPAN	VPER	9	1466	238	240	0.16371078	0	9	0	0	0.00000000	0.86363636	0.39751553	0.03867403	second:first>=0.50_AND_union>=0.70	PASS

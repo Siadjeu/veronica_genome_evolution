@@ -1,0 +1,4 @@
+comparison	purpose	reference_species	target_species	reference_chromosome_count	target_chromosome_count	mapped_anchor_pairs	chromosome_pairs_with_anchors	multiple_strong_partner_pairs	operational_component_ratio	reference_order	target_optimized_order	status
+VSCU_VSER	diploid_diploid_VSER	VSCU	VSER	9	7	22444	56	8	6:4	7,1,3,9,2,6,5,8,4	7,5,3,6,2,4,1	PASS
+VSCU_VPAN	diploid_diploid_VPAN	VSCU	VPAN	9	9	21174	67	11	4:4	7,1,3,9,2,6,5,8,4	7,4,3,9,8,2,6,1,5	PASS
+VPAN_VPER	diploid_tetraploid_VPER	VPAN	VPER	9	14	42612	116	28	7:10	7,4,3,9,8,2,6,1,5	11,1,7,10,13,8,5,9,14,12,4,3,2,6	PASS

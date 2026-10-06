@@ -1,0 +1,31 @@
+# Large genomics files
+*.fa
+*.fasta
+*.fna
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.sam
+*.cram
+*.hic
+*.cool
+*.mcool
+*.dmnd
+*.daa
+
+# HPC / temporary files
+logs/
+tmp/
+temp/
+slurm-*.out
+*.err
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+*.svg~

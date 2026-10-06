@@ -1,0 +1,10 @@
+code	species	evidence_mode	rnaseq_accession	protein_evidence
+PMAJ	Plantago_major	EP	NA	Viridiplantae_OrthoDB_v11
+VPAN	Veronica_panormitana	ETP	SRR3491905	Viridiplantae_OrthoDB_v11
+VSCU	Veronica_scutellata	EP	NA	Viridiplantae_OrthoDB_v11
+VANA	Veronica_anagallis-aquatica	EP	NA	Viridiplantae_OrthoDB_v11
+VARV	Veronica_arvensis	EP	NA	Viridiplantae_OrthoDB_v11
+VPER	Veronica_persica	EP	NA	Viridiplantae_OrthoDB_v11
+VSER	Veronica_serpyllifolia	EP	NA	Viridiplantae_OrthoDB_v11
+VTRI	Veronica_triphyllos	EP	NA	Viridiplantae_OrthoDB_v11
+VVER	Veronica_verna	EP	NA	Viridiplantae_OrthoDB_v11

@@ -1,0 +1,10 @@
+code	species	accession	ploidy	chromosomes	source
+PMAJ	Plantago_major	GCA_026545765.1	2x	6	NCBI
+VSCU	Veronica_scutellata	GCA_965198585.1	2x	9	NCBI
+VANA	Veronica_anagallis-aquatica	GCA_965198525.1	4x	18	NCBI
+VARV	Veronica_arvensis	GCA_964211895.1	2x	8	NCBI
+VVER	Veronica_verna	GCA_964059225.1	2x	8	NCBI
+VPER	Veronica_persica	GCA_965211895.1	4x	14	NCBI
+VSER	Veronica_serpyllifolia	GCA_964197965.1	2x	7	NCBI
+VTRI	Veronica_triphyllos	GCA_964188015.1	2x	7	NCBI
+VPAN	Veronica_panormitana	LOCAL_ASSEMBLY	2x	9	this_study

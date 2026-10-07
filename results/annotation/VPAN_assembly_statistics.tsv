@@ -1,0 +1,15 @@
+metric	value
+assembled_genome_size_bp	237934499
+assembled_genome_size_Mb	237.934
+number_scaffolds	9
+scaffold_N50_bp	26614034
+scaffold_N50_Mb	26.614
+longest_scaffold_bp	30539573
+longest_scaffold_Mb	30.540
+number_pseudochromosomes	9
+total_N_bases	46914
+assembly_gap_percent	0.019717
+number_N_runs	272
+inferred_contig_count	281
+inferred_contig_N50_bp	4397116
+inferred_contig_N50_Mb	4.397

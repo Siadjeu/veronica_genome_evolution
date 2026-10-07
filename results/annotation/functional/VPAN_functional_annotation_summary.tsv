@@ -1,0 +1,9 @@
+category	protein_count	percentage
+representative_proteins	28313	100.00
+swissprot_strict	17798	62.86
+interproscan	25045	88.46
+both	17698	62.51
+swissprot_only	100	0.35
+interproscan_only	7347	25.95
+functional_annotation_union	25145	88.81
+no_functional_support	3168	11.19

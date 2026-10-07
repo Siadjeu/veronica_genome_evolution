@@ -29,3 +29,11 @@ __pycache__/
 # OS / editor
 .DS_Store
 *.svg~
+
+# Local annotation databases
+databases/
+
+# Large reproducible functional-annotation intermediates
+results/annotation/functional/VPAN_swissprot.diamond.tsv
+results/annotation/functional/interproscan/
+results/annotation/quast/
